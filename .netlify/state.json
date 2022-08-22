@@ -1,0 +1,17 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Cape Town",
+			"country": {
+				"code": "ZA",
+				"name": "South Africa"
+			},
+			"subdivision": {
+				"code": "WC",
+				"name": "Western Cape"
+			}
+		},
+		"timestamp": 1658775803014
+	}
+}

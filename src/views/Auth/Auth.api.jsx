@@ -1,3 +1,4 @@
+import React from 'react';
 import { Provider } from "./Auth.context";
 import { supabase } from "../../helpers/supabase";
 

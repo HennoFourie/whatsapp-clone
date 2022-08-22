@@ -1,3 +1,4 @@
+import React from 'react';
 import { Container } from "./Profile.api";
 import { Profile as View } from "./Profile";
 

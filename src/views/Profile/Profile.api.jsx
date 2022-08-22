@@ -1,3 +1,4 @@
+import React from 'react';
 import { Provider } from "./Profile.context";
 import { supabase } from "../../helpers/supabase";
 

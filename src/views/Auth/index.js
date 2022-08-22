@@ -1,3 +1,4 @@
+import React from 'react';
 import { Container } from './Auth.api'
 import { Auth as View } from './Auth'
 
